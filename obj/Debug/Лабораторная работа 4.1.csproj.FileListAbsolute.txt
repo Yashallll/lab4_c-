@@ -1,0 +1,23 @@
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.exe.config
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.exe
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.pdb
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.exe
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.pdb
+D:\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.exe.config
+D:\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.exe
+D:\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.pdb
+D:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.AssemblyReference.cache
+D:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.CoreCompileInputs.cache
+D:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.exe
+D:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.pdb
+E:\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.exe.config
+E:\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.exe
+E:\Лабораторная работа 4.1\bin\Debug\Лабораторная работа 4.1.pdb
+E:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.AssemblyReference.cache
+E:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.SuggestedBindingRedirects.cache
+E:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.csproj.CoreCompileInputs.cache
+E:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.exe
+E:\Лабораторная работа 4.1\obj\Debug\Лабораторная работа 4.1.pdb
